@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="128" fill="#1B4332"/>
+  <!-- Stick -->
+  <rect x="236" y="340" width="40" height="96" rx="20" fill="#E8BD8C"/>
+  <rect x="248" y="340" width="16" height="88" rx="8" fill="#D3A772" opacity="0.6"/>
+  <!-- Pop Body -->
+  <path d="M196 140 C196 90, 316 90, 316 140 L316 330 C316 345, 196 345, 196 330 Z" fill="#F4B942"/>
+  <!-- Dip / Layer -->
+  <path d="M196 140 C196 90, 316 90, 316 140 L316 230 C286 245, 230 215, 196 235 Z" fill="#E05A47"/>
+  <!-- Natural Leaf Accent -->
+  <path d="M256 70 C240 50, 256 30, 276 40 C286 60, 270 80, 256 70 Z" fill="#52B788"/>
+  <!-- Shine Highlight -->
+  <path d="M214 140 C214 110, 230 110, 230 140 L230 270 C230 280, 214 280, 214 270 Z" fill="#FFFFFF" opacity="0.25"/>
+</svg>
